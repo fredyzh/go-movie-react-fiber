@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `go run ./cmd`
 
 Runs the app in the development mode.\
-Open [http://ec2-18-234-143-140.compute-1.amazonaws.com:8282/] to view it in your browser, deployed on aws ecs for demo purpose
+Open [http://ec2-18-234-143-140.compute-1.amazonaws.com:8282/] to view it in your browser, deployed on aws ecs for demo purpose, login: movieadmin@test.com/test1234
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
